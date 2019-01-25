@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920px"
+   height="1080px"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo-footer.svg"
+   inkscape:export-filename="/var/www/html/Pressz.ir/images/logo-footer.png"
+   inkscape:export-xdpi="8.7700005"
+   inkscape:export-ydpi="8.7700005">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="926.77101"
+     inkscape:cy="311.42857"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs38" />
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4674"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:533.33331299px;line-height:1.25;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#0e8e97;fill-opacity:1;stroke:none"
+       d="m 680.09674,328.06547 h 159.63541 q 26.5625,0 48.69791,7.03124 22.39584,6.77084 38.54167,20.3125 16.40625,13.28125 25.26041,33.33334 9.11459,20.05208 9.11459,46.09374 0,21.61459 -8.85417,40.88542 -8.85417,19.01042 -25,33.33333 -16.14583,14.32292 -38.80208,22.65625 -22.39583,8.33333 -50,8.33333 H 768.6384 v 138.02083 h 39.58333 v 44.79167 H 680.09674 v -44.79167 h 37.5 v -304.9479 h -37.5 z m 88.54166,45.05208 v 124.21874 h 71.09375 q 14.84375,0 27.08333,-3.90625 12.5,-4.16666 21.35417,-11.97916 9.11458,-7.8125 14.0625,-19.53125 5.20833,-11.71875 5.20833,-27.08334 0,-29.16666 -17.70833,-45.31249 -17.70834,-16.40625 -56.51042,-16.40625 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4684"
+       style="font-style:normal;font-weight:normal;font-size:medium;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffdc1d;fill-opacity:1;stroke:none"
+       d="M 989.67258,692.9092 1126.3914,493.43004 h -86.198 v 38.02083 h -47.91662 v -78.38541 h 192.96872 v 30.72917 l -136.4583,198.43749 h 92.1875 v -45.83333 h 50.2604 v 86.45833 H 989.67258 Z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4686"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:533.33331299px;line-height:1.25;font-family:Arvo;-inkscape-font-specification:Arvo;letter-spacing:0px;word-spacing:0px;fill:#0e8e97;fill-opacity:1;stroke:none"
+       d="m 1235.5059,486.65921 q 0,-6.77083 2.6042,-12.76042 2.8646,-6.25 7.5521,-10.67708 4.6875,-4.6875 10.6771,-7.29167 6.25,-2.86458 13.2812,-2.86458 6.7709,0 12.7604,2.86458 6.25,2.60417 10.6771,7.29167 4.6875,4.42708 7.2917,10.67708 2.8646,5.98959 2.8646,12.76042 0,7.03125 -2.8646,13.28125 -2.6042,6.25 -7.2917,10.9375 -4.4271,4.6875 -10.6771,7.55208 -5.9895,2.86458 -12.7604,2.86458 -7.0312,0 -13.2812,-2.86458 -5.9896,-2.86458 -10.6771,-7.55208 -4.6875,-4.6875 -7.5521,-10.9375 -2.6042,-6.25 -2.6042,-13.28125 z m 17.7084,162.49999 57.0312,22.39584 -67.7083,139.84374 -37.2396,-13.80208 z" />
+  </g>
+</svg>
