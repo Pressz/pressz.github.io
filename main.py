@@ -27,10 +27,6 @@ doc = stringbuilder.stringbuilder() # For each file
 for l in open('master/header.txt').readlines():
     header.Append(l)
 
-# Read homepage file line by line
-for l in open('master/index.txt').readlines():
-    homepage.Append(l)
-
 # Read footer file line by line
 for l in open('master/footer.txt').readlines():
     footer.Append(l)
@@ -75,9 +71,3 @@ while i < len(index) - 1:
         f.write(str(menu))
         f.write('<div class="content">' + str(doc) + '</div>')
         f.write(str(footer))
-
-with io.open('index.html','w',encoding='utf8') as f:
-    # f.write(str(header))
-    # f.write(str(menu))
-    f.write(str(homepage))
-    # f.write(str(footer))

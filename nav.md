@@ -3,9 +3,8 @@
 
 - The Pressez
     1. Rules
-    1. Name
-    1. Logo
-    1. Style Guide
+    1. Name and Logo
+    1. Vision and Mission
 - Sariab
     1. About
     1. Content Strategy

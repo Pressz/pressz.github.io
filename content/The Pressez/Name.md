@@ -1,1 +1,0 @@
-Here there are some details about Sariab name.
