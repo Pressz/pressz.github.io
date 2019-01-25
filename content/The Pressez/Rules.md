@@ -1,0 +1,3 @@
+#Rules
+
+1- Banned content includes photos, videos, and GIFs of human genitalia, female-presenting nipples, and any media involving sex acts, including illustrations. The exceptions include nude classical statues and political protests that feature nudity. The new guidelines exclude text, so erotica remains permitted. Illustrations and art that feature breastfeeding and after-birth photos are still okay.

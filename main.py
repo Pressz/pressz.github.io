@@ -77,7 +77,7 @@ while i < len(index) - 1:
         f.write(str(footer))
 
 with io.open('index.html','w',encoding='utf8') as f:
-    f.write(str(header))
-    f.write(str(menu))
+    # f.write(str(header))
+    # f.write(str(menu))
     f.write(str(homepage))
-    f.write(str(footer))
+    # f.write(str(footer))
