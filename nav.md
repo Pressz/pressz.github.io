@@ -8,6 +8,7 @@
 - Sariab
     1. About
     1. Name and Logo
+    1. University Loves Industry
     1. Content Strategy
     1. Developement Tutorials on Youtube
     1. How to use the source
