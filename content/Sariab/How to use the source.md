@@ -13,3 +13,7 @@
 ![Your Profile](content/Sariab/images/git-10.png)
 ![view invitation](content/Sariab/images/git-11.png)
 ![Join the pressz](content/Sariab/images/git-12.png)
+![Github Desktop Welcome Screen](content/Sariab/images/git-desktop-1.jpg)
+![Repository on Github](content/Sariab/images/git-desktop-2.jpg)
+![Git Repository Modoal](content/Sariab/images/git-desktop-3.jpg)
+![Done!](content/Sariab/images/git-desktop-4.jpg)
