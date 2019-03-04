@@ -1,14 +1,39 @@
+ برای ورود به سایت گیتهاب [اینجا ](http//:https://github.com/join?source=login)روی لینک زیر کلیک کنید.
+
+در قسمت نام کاربری؛نام دلخواه خود را انتخاب کنید
+
+در قسمت ایمیل ادرس ؛ایمیل خود را وارد کنید.
+
+در قسمت  پسورد ؛رمز دلخواه خود را انتخاب کنید.
+
+ در پایین صفحه روی کلید سبز رنگ کلیک کنید.
+
 ![Join Github](content/Sariab/images/git-1.png)
+
+برای ورود روی قسمت رایگان کلیک کنید.
+
+در پایین صفحه روی کلید سبز رنگ کلیک کنید.
+
 ![Wellcome To Github](content/Sariab/images/git-2.png)
-![Sign Up TO Github](content/Sariab/images/git-3.png)
-![Invite Organization Members](content/Sariab/images/git-4.png)
-![Organization details](content/Sariab/images/git-5.png)
-![Join Github](content/Sariab/images/git-6.png)
-![Join Github](content/Sariab/images/git-7.png)
+
+صفحه پروفایل.
+
 ![Your Profile](content/Sariab/images/git-8.png)
+
+از ادرس تنظیمات ایمیل خود اطمینان حاصل فرمایید
+
 ![Your Profile](content/Sariab/images/git-9.png)
+
+صفحه تنظیمات پروفایل وشخصی.
+
 ![Your Profile](content/Sariab/images/git-10.png)
+
+pressz پیغام دعوت شدن به .
+
 ![view invitation](content/Sariab/images/git-11.png)
+
+پیغام عضو شدن .
+
 ![Join the pressz](content/Sariab/images/git-12.png)
 
 
