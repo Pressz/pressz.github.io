@@ -16,6 +16,6 @@
 
 >Labeling people as users strips them of complexity. It reduces humans to a single behavior, effectively supporting a view of people as more like robots whose sole function is to use a product or feature. This is a poor ethos for building ethical technology.
 
-## End users
+## Audience
 
 1.People must report contents or content providers which are breaking the rules and keep themselves and other users away from the content.
