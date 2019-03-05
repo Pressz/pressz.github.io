@@ -1,3 +1,14 @@
+به قلم:
+[@amirmbaharlou](https://github.com/amirmbaharlou),
+[@amirtghh](https://github.com/amirtghh)
+
+سوالی اگر دارید خوشحال می‌شویم پاسخ دهیم!
+
+[برای پرسیدن سوال کلیک کنید](https://github.com/Pressz/pressz.github.io/issues/new)
+
+<hr/>
+# آموزش
+
  برای ورود به سایت گیتهاب [اینجا ](http//:https://github.com/join?source=login)روی لینک زیر کلیک کنید.
 
 در قسمت نام کاربری؛نام دلخواه خود را انتخاب کنید
@@ -49,10 +60,10 @@ pressz پیغام دعوت شدن به .
 
 ![Repository on Github](content/Sariab/images/git-desktop-2.jpg)
 
- سپس با زدن کلن ریپازیتوری و در سر برگ یو آر ال لینک رادر قسمت یو آر ال پیست کنید و کلن را بزنید.  
+ سپس با زدن کلون ریپازیتوری و در سر برگ یو آر ال لینک رادر قسمت یو آر ال پیست کنید و کلون را بزنید.  
 
 ![Git Repository Modoal](content/Sariab/images/git-desktop-3.jpg)
 
-منتظر باشید تا پروژ] کلن شود.
+منتظر باشید تا پروژه کلون شود.
 
 ![Done!](content/Sariab/images/git-desktop-4.jpg)

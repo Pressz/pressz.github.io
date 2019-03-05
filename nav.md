@@ -2,9 +2,11 @@
 [//]: # (use four spaces and a number following by a dot for file ->     1.)
 
 - The Pressez
+    1. Who is who
+    1. Why
     1. Rules
     1. Name and Logo
-    1. Vision and Mission
+    1. Content Slaveholding
 - Sariab
     1. About
     1. Name and Logo
