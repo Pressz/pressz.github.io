@@ -30,11 +30,75 @@ According to Dr. Glasser, all behavior is purposeful. It is our best attempt at 
 
 # Sariab Matrix of Content Flow per Human
 
-|   |Survival|Love & Belonging|Power|Freedom|Fun
+
+<!-- |-|Survival|Love & Belonging|Power|Freedom|Fun|
 |---|---|---|---|---|---|
-|Entertainment|   |   |   |   |   |
-|Inspiration|   |   |   |   |   |
-|Education|   |   |   |   |   |
-|Conversation|   |   |   |   |   |
-|Connection|   |   |   |   |   |
-|Promotion|   |   |   |   |   |
+|Entertainment|∂|∂|∂|∂|∂|
+|Inspiration|∂|∂|∂|∂|∂|
+|Education|∂|∂|∂|∂|∂|
+|Conversation|∂|∂|∂|∂|∂|
+|Connection|∂|∂|∂|∂|∂|
+|Promotion|∂|∂|∂|∂|∂| -->
+
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>-</th>
+<th style="text-align:center">Survival</th>
+<th style="text-align:center">Love &amp; Belonging</th>
+<th style="text-align:center">Power</th>
+<th style="text-align:center">Freedom</th>
+<th style="text-align:center">Fun</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Entertainment</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+</tr>
+<tr>
+<td>Inspiration</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+</tr>
+<tr>
+<td>Education</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+</tr>
+<tr>
+<td>Conversation</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+</tr>
+<tr>
+<td>Connection</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+</tr>
+<tr>
+<td>Promotion</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+<td style="text-align:center">∂</td>
+</tr>
+</tbody>
+</table>
