@@ -1,5 +1,3 @@
-
-
 # Design Pattern
 MVC, MVP, and MVVM are three popular design patterns in software development.
 In this program we use MVP pattern.
@@ -14,33 +12,13 @@ Task of configuring application information, server address, token and …
 ### Data
 Do catch.
 
-``` mermaid
-graph TD
-A[Data ]
-Network -->A
-SQLite -->A
-A -->B[Adapter , Presenter and...]
-```
- * available offline
+![ّFlowchart1](https://s4.aconvert.com/convert/p3r68-cdx67/cb82d-gl2vw.svg)
+
 
 ### Fragment
 This part will be removed.
 
-```mermaid
-graph LR
-A[ -- -- -- -- -- ]
-B[ -- -- -- -- -- ]
-C[ -- -- -- -- -- ]
-D[ -- -- -- -- -- ]
-A -->B
-B -->A
-B-->C
-C-->B
-C-->D
-D-->C
-```
-* A multipurpose activity is used.
-
+![Flowchart2](https://s4.aconvert.com/convert/p3r68-cdx67/cb7h8-usrb1.svg)
 
 ### Helper
 Custom design programmer(font correction, etc).
@@ -48,11 +26,8 @@ Custom design programmer(font correction, etc).
 ### Models
 An example of a database to form of class.
 
-```mermaid
-graph LR
-Access -- cast--> A[Model]
-A--> B[ -- -- -- -- ]
-```
+![Flowchart3](https://s4.aconvert.com/convert/p3r68-cdx67/cbmob-s7mxc.svg)
+
 ### Network
 This is the task of communicating with the server and the network (Internet).
 * Get
@@ -67,30 +42,16 @@ This is the task of communicating with the server and the network (Internet).
 1. The task is to collect and sort things out and deliver for view.
 2. Checking error
 3. Performing functionality pragmatism.
-```mermaid
-graph LR
-A[ -- -- -- -- -- ]
-A -->B[funcyionality,resp]
-B -->A
-B -->C[OK!]
-C -->B
-```
-                                 Presenter           View/Fragment/Activiy
 
+![Flowchart4](https://s4.aconvert.com/convert/p3r68-cdx67/cbpsx-q0hz9.svg)
 
  ### SQLite
   It has the task of communicating with the permanent storage of the program on the device.
 
   The task is to manage build databases and tables and update databases and tables and records.
 
-  ```mermaid
-  graph LR
-
-  A[CRUD] -->Creat
-  A --> Read
-  A --> Update
-  A --> Delete
-  ```
+![Flowchart5](https://s4.aconvert.com/convert/p3r68-cdx67/cbu6j-ajsn2.svg)
+ 
 ### View
 
 The task is to communicate between the presenter and the program's activities.
@@ -99,24 +60,8 @@ The task is to communicate between the presenter and the program's activities.
 
 The task is to communicate between graphic XML, UL / UX and presenter.
 
-```mermaid
-graph LR
-A[Class]-->Method
-A-->Property
-```
-* C
+![Flowchart6](https://s4.aconvert.com/convert/p3r68-cdx67/cb3uf-4vd94.svg)
 
-```mermaid
-graph LR
-interface --> template/pattern 
-
-```
-* F
-```mermaid
-graph LR
-A((C)) -- Implement --> B((F))
-C((C))--Extend-->D((A))
-```
 Abstract Class + a little of functionality.
 
 F : All system users have method of the name + surname.
