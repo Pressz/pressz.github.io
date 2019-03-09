@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="css/good-feeling.css">
+    <title>The Pressez Docs</title>
+</head>
+<body>
+<header>
+    <h1>The Pressez</h1>
+    <img src="images/logo.png" alt="Pressz Logo" />
+    <span>Build your own community</span>
+</header><ul class="navigation">The Pressez<li><a href="a_M2hW5KmCSZw.html">Who is who</a></li><li><a href="a_z3iEmc61SZZ.html">Why</a></li><li><a href="a_NnD56tvSyHj.html">Rules</a></li><li><a href="a_N-T6fD8kkAl.html">Name and Logo</a></li><li><a href="a_UCufXA1tAmL.html">Content Slaveholding</a></li>Sariab<li><a href="a_L98rnBaufhv.html">About</a></li><li><a href="a_V8gndh4b1xQ.html">Name and Logo</a></li><li><a href="a_jLI0Xk9pLAw.html">University Loves Industry</a></li><li><a href="a_YN2az2DPNQm.html">Content Strategy</a></li><li><a href="a_eb0WWbV41RF.html">Life loop detection</a></li><li><a href="a_304M1do9HNF.html">Developement Tutorials on Youtube</a></li><li><a href="a_aA7t7YePP9z.html">How to use the source</a></li><li><a href="a_cRTtlU3dnV2.html">Android - Architecture</a></li></ul><div class="content"><h1>Tayyebi Loop of Misery</h1>
+
+<p>In some periods of time,
+human is kept accustomed by enviroment
+containing media, friends, lifestyle, etc...</p>
+
+<p>If it was possible to create
+a list of all enviroment elements
+known by a tuple of id and other properties,
+then it will be possible to generate array 'a'
+which is representing peer to peer accustomization of elements mentioned.</p>
+
+<blockquote>
+  <p>e.g-></p>
+  
+  <p>Human H has following life style</p>
+  
+  <p>enviroment_elements:
+    - breakfast, 1 hours/day, morning, egg and milk
+    - news, 2 hours/day, morning, bbc
+    - university, 4 hours/day, noon, mathematics
+    - gym, 1 hours/day, afternoon, pool
+    - chat, 2 hours/day, night, politics</p>
+  
+  <p>H is accustomed by the current lifestlye
+  so 'a' array will be generated as following:</p>
+  
+  <p>[True, True, True, True, True]</p>
+  
+  <p>H will not face any new optional and selective event until
+  updating the daily program with new friends</p>
+  
+  <p>enviroment elements (new):
+  chat, 3 hours/day, night, art-politics</p>
+  
+  <p>H is not already accustomed with new enviroment elements
+  so 'a' array will be generated as following:\</p>
+  
+  <p>[True, True, True, True, False]</p>
+  
+  <p>then H has the chance to explore more out of life
+  using explore() function.</p>
+</blockquote>
+
+<p>explore() uses X.
+X will be true if H is accustomed by enviroment;
+and it will be false even if there is an element which isn't accustomed yet
+so the busy loop will pass.</p>
+
+<h2>Algorithm</h2>
+
+<pre>
+<code>
+a = [True, True, True, False, True, True]
+X = lambda n : a[n] if n < 1 else X(n-1) and a[n]
+
+def explore ():
+
+    .
+    . EACH HUMAN STRATEGY OF LIFE
+    . UPDATING a
+    . UPDATING enviroment_elements
+    .
+
+    while X(len(a) - 1):
+        continue
+    explore()
+
+explore()
+<code>
+</pre>
+</div><footer>&copy; 2019, The Pressez</footer>
+</body>
+</html>

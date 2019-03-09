@@ -28,7 +28,7 @@ According to Dr. Glasser, all behavior is purposeful. It is our best attempt at 
 
 ![social-media-content-categories](https://louisem.com/wp-content/uploads/2016/10/social-media-content-categories-infographic.png)
 
-# Tayyebi's Matrix of Content Flow per Human
+# Tayyebi Matrix of Content Satisfaction Strategy per Human
 
 
 <!-- |-|Survival|Love & Belonging|Power|Freedom|Fun|

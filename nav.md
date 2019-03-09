@@ -12,6 +12,7 @@
     1. Name and Logo
     1. University Loves Industry
     1. Content Strategy
+    1. Life loop detection
     1. Developement Tutorials on Youtube
     1. How to use the source
     1. Android - Architecture

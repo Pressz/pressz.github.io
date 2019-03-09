@@ -18,4 +18,4 @@
 
 ## Audience
 
-1.People must report contents or content providers which are breaking the rules and keep themselves and other users away from the content.
+1.People must report contents or content providers which are breaking the rules and keep themselves and other users away from the content. [Our offered method](a_eb0WWbV41RF.html)
