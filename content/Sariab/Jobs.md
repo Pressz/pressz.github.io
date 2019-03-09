@@ -14,7 +14,6 @@ https://pressz.github.io/a_NnD56tvSyHj.html
 
 🔹PRESSZ.IR🔹
 
-The Pressez Ops, [04.03.19 00:02]
 وب سایت کمپین
 Pressz.ir
 
