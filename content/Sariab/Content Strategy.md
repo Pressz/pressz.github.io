@@ -181,6 +181,31 @@ For simplicity we just calculate a total (σ) estimate as ϝn for whole B.
 Then we have to calculate matrix for H.
 It would be ***Ϝn = Σ ϝn***
 
+Progress improvement is compared using arrays below:
+
+- Satisfied: Column Sum
+- Need: Basic Needs Test output
+<table>
+<tbody>
+<tr>
+<th>Satisfied:</th>
+<td>Ϝ t</td>
+<td>Ϝ t</td>
+<td>Ϝ t</td>
+<td>Ϝ t</td>
+<td>Ϝ t</td>
+</tr>
+<tr>
+<th>Need:</th>
+<td>Ϝ t</td>
+<td>Ϝ t</td>
+<td>Ϝ t</td>
+<td>Ϝ t</td>
+<td>Ϝ t</td>
+</tr>
+</tbody>
+</table>
+
 ## Notes
 
 - Glasser test are not real partitions of human basic needs because of their real world intersection; they are effecting each other and they aren't time-independent. So there must be a 'k' nearby 'i', and 'j'.
