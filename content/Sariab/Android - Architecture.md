@@ -1,3 +1,9 @@
+به قلم:
+[@amirmbaharlou](https://github.com/amirmbaharlou),
+[@jahandideh01](https://github.com/jahandideh01)
+
+<hr/>
+
 # Design Pattern
 MVC, MVP, and MVVM are three popular design patterns in software development.
 In this program we use MVP pattern.
