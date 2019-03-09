@@ -1,7 +1,7 @@
 # Who is Gordarg?
 
 [Gordarg](http://gordarg.com),
-is the team behind [SnowFramework](https://github.com/SnowFramework),
+is the team behind [SnowFramework](https://github.com/Gordarg/SnowFramework),
 an Open Source *Knowledge Management System*.
 
 Gordarg also is supporting [Pressz](http://pressz.ir) as their social responsibility.
