@@ -1,3 +1,4 @@
+![SnowFramework](content/The Pressez/images/wiw.jpg)
 # Who is Gordarg?
 
 [Gordarg](http://gordarg.com),
